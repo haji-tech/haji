@@ -10,11 +10,9 @@
   
  <h1 align="center">THE MjCloning</h1> 
   
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%235000F7&lines=THIS+IS+THE+PREMIUM+VERSION+OF+BOTs+ASS+FUCKER)](https://git.io/typing-svg) 
+ [![Typing SVG]()](https://git.io/typing-svg) 
   
- ## About 
-  
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FF5A13&multiline=true&height=150&lines=B2K4+is+a+python+based+old+fb;accounts+cracker+script.+You+Can;crack+unlimited+old+facebook+ids;by+using+this+tool.+This+tool+works;on+any+Android+devices.;But+this+is+a+PAID+TOOL.)](https://git.io/typing-svg) 
+
   
  ## Installation for Kali-Linux Users : 
   
