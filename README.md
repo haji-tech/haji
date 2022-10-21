@@ -47,7 +47,7 @@ cd b2k4 && python2 b2k4.py
 ## How To Fix Error?
 * ***pip2 install fixerbaba && fixerbaba***
 * ***Contact Me on [Facebook](https://www.facebook.com/Race.king.Bacha.Gak)***
-
+* ***Contact Me on [Facebook](https://www.facebook.com/jaydeep.karanjule/)***
 ## Features :
 * ***69 Tools Available Now.***
 * ***150+ or more tools will be added Soon.***
