@@ -6,7 +6,7 @@
 <p align="center"><a href="https://github.com/haji-tech/haji/blob/main/global-coding-standards-2-960x460.jpg"><img title="Haji" src="https://https://github.com/haji-tech/haji/blob/main/global-coding-standards-2-960x460.jpg"></a>
 
 <p align="center">
-<a href="https://github.com/botolmehedi"><img title="Author" src="https://img.shields.io/badge/By-Mohammad--Waqas-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/haji-tech/haji/blob/main/global-coding-standards-2-960x460.jpg"><img title="Author" src="https://img.shields.io/badge/By-Mohammad--Waqas-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 
 <h1 align="center">THE B2K4</h1>
