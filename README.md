@@ -3,7 +3,7 @@
 <a href="#"><img title="Made in Afghansitan" src="https://img.shields.io/badge/MADE%20IN-Afghanistan-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 
-<p align="center"><a href="https://www.google.com/search?q=coding&source=lnms&tbm=isch&sa=X&ved=2ahUKEwivy5zp-PH6AhWRk4kEHaj3BhoQ_AUoAXoECAEQAw&biw=1242&bih=634&dpr=1.1&safe=active&ssui=on&surl=1#imgrc=EFYvWqgFLES6TM"><img title="Haji--jan" src="https://i.ibb.co/ZHPzyQd/20211216-181120.jpg"></a>
+<p align="center"><a href="https://www.google.com/search?q=coding&source=lnms&tbm=isch&sa=X&ved=2ahUKEwivy5zp-PH6AhWRk4kEHaj3BhoQ_AUoAXoECAEQAw&biw=1242&bih=634&dpr=1.1&safe=active&ssui=on&surl=1#imgrc=EFYvWqgFLES6TM"><img title="Haji--jan" src="https://www.google.com/search?q=coding&source=lnms&tbm=isch&sa=X&ved=2ahUKEwivy5zp-PH6AhWRk4kEHaj3BhoQ_AUoAXoECAEQAw&biw=1242&bih=634&dpr=1.1&safe=active&ssui=on&surl=1#imgrc=EFYvWqgFLES6TM.jpg"></a>
 
 <p align="center">
 <a href="https://github.com/botolmehedi"><img title="Author" src="https://img.shields.io/badge/By-Mohammad--Waqas-red.svg?style=for-the-badge&logo=github"></a>
