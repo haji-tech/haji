@@ -11,7 +11,7 @@
 
 <h1 align="center">THE B2K4</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%235000F7&lines=THIS+IS+THE+PREMIUM+VERSION+OF+BOTs+ASS+FUCKER)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%235000F7&lines=THIS+IS+THE+PREMIUM+VERSION+OF+BOTs+DON'T--MEAN)](https://git.io/typing-svg)
 
 ## About
 
